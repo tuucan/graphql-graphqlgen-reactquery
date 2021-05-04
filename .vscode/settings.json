@@ -1,0 +1,10 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true
+}

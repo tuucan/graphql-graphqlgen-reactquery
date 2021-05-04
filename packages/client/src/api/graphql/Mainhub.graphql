@@ -1,0 +1,6 @@
+query Mainhubs {
+    mainhubs {
+        id
+        name
+    }
+}

@@ -1,0 +1,9 @@
+type Mainhub {
+  id: Float!
+  name: String!
+  rampCount: Int
+}
+
+type Query {
+  mainhubs: [Mainhub!]!
+}
